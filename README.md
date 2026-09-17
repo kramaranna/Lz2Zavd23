@@ -27,7 +27,8 @@
 
 ### 2. Результат табулювання 
 
-<img width="1068" height="720" alt="Знімок екрана 2026-09-17 о 11 06 03" src="https://github.com/user-attachments/assets/1968de8e-8308-4fe1-a74c-10b21a266f0a" />
+<img width="668" height="488" alt="image" src="https://github.com/user-attachments/assets/17052ab5-c860-41dd-8c83-951173370338" />
+
 <img width="659" height="509" alt="image" src="https://github.com/user-attachments/assets/a0704b53-9a03-434a-bdac-a0184a3c9103" />
 
  У 2-му завданні, на жаль, не вдалося виводити аудіо. На мою думку, це пов'язано з тим, що я працюю на віртуальній машині.
